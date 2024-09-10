@@ -100,7 +100,7 @@ ApplePass
 
 ## How to build a `signpass`.
 
-- As you have downloaded the [sample passes](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGk1eTlsSVJjcDVJSlAyTnRlYnQ4OGc1X1VaQXxBQ3Jtc0tsaElKMUhrczZJSzVtN1o5bGJjX0MzU2VxOVFUODgzdVRSOHZURmd1ZDl0cVJ2R0FicHlkUmJCZTlUV1lYWkV3TzNmbVNUV2U1ZVp6THVOaEU3eUZmcnQxTnV6eEthZTRfT0N5WnRjQzltVlJZWGtibw&q=https%3A%2F%2Fdownload.developer.apple.com%2FiOS%2FWallet_Support_Materials%2FWalletCompanionFiles.zip&v=rJZdPoXHtzI) provided by Apple. It contains a `signpass` folder open it in `Xcode`.
+- As you have downloaded the [sample passes](https%3A%2F%2Fdownload.developer.apple.com%2FiOS%2FWallet_Support_Materials%2FWalletCompanionFiles.zip&v=rJZdPoXHtzI) provided by Apple. It contains a `signpass` folder open it in `Xcode`.
 ```md
 WalletCompanionFiles
 |

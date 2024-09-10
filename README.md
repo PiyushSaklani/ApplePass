@@ -1,6 +1,6 @@
 # How to make a `.pkpass` file
 
-[Sample Passes]() provided by Apple.
+[Sample Passes](https://developer.apple.com/services-account/download?path=/iOS/Wallet_Support_Materials/WalletCompanionFiles.zip) provided by Apple.
 
 ## Overview
 - Make a `CSR`.
@@ -100,7 +100,7 @@ ApplePass
 
 ## How to build a `signpass`.
 
-- As you have downloaded the [sample passes]() provided by Apple. It contains a `signpass` folder open it in `Xcode`.
+- As you have downloaded the [sample passes](https://developer.apple.com/services-account/download?path=/iOS/Wallet_Support_Materials/WalletCompanionFiles.zip) provided by Apple. It contains a `signpass` folder open it in `Xcode`.
 ```md
 WalletCompanionFiles
 |
